@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Management System",
+  "description": "AI Resume Management System is a Java-based application that automates resume storage and enables quick, skill-based candidate search using JDBC and MySQL.",
+  "requestFramePermissions": []
+}
